@@ -8,3 +8,7 @@ Block explorer for AZUR CryptoNote v7 based cryptocurrency.
 ./azurd --enable-blockexplorer --rpc-bind-ip 0.0.0.0 --enable-cors=*
 ```
 2) Just upload to your website and change 'api' variable in config.js to point to your daemon with port 15251.
+
+
+#### Use public nodes
+You can use public nodes with api.getazur.org. Just git clone this repo all config arer already up-to-date.
