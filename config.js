@@ -1,4 +1,4 @@
-var api = '104.198.58.53:15251';
+var api = '127.0.0.1:15251';
 var apiList = [""];
 var blockTargetInterval = 7;
 var coinUnits = 100;
