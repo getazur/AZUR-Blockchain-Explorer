@@ -1,4 +1,4 @@
-var api = 'api.getazur.org';
+var api = 'https://api.getazur.org';
 var apiList = [""];
 var blockTargetInterval = 7;
 var coinUnits = 100;
