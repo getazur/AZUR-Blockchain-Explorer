@@ -1,4 +1,4 @@
-var api = 'https://supernode.getazur.org/peers';
+var api = 'https://supernode.getazur.org/';
 var apiList = [""];
 var blockTargetInterval = 7;
 var coinUnits = 100;
