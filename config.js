@@ -1,4 +1,4 @@
-var api = 'https://supernode.getazur.org';
+var api = 'http://34.73.57.93:15251';
 var apiList = [""];
 var blockTargetInterval = 7;
 var coinUnits = 100;
